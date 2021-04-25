@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-25T14:44:59 CDT" name="Default suite" finished-at="2021-04-25T14:45:16 CDT" duration-ms="17678">
+    <groups>
+    </groups>
+    <test started-at="2021-04-25T14:44:59 CDT" name="Default test" finished-at="2021-04-25T14:45:16 CDT" duration-ms="17678">
+      <class name="WDM.WebDriverManagerEX">
+        <test-method signature="weManager()[pri:0, instance:WDM.WebDriverManagerEX@67f639d3]" started-at="2021-04-25T14:44:59 CDT" name="weManager" finished-at="2021-04-25T14:45:09 CDT" duration-ms="10569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weManager -->
+        <test-method signature="weManagerFireFox()[pri:0, instance:WDM.WebDriverManagerEX@67f639d3]" started-at="2021-04-25T14:45:09 CDT" name="weManagerFireFox" finished-at="2021-04-25T14:45:16 CDT" duration-ms="7069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weManagerFireFox -->
+      </class> <!-- WDM.WebDriverManagerEX -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
